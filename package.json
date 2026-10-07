@@ -1,0 +1,1 @@
+{ "name": "still4", "private": true, "type": "module", "dependencies": { "@netlify/blobs": "latest" } }
